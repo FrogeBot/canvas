@@ -9,7 +9,7 @@ $ npm i @frogebot/canvas
 ```
 ## Use
 ```js
-let frogeCanvas = require("@frogebot/canvas")();
+let frogeCanvas = require("@frogebot/canvas");
 ```
 
 ### Functions
