@@ -1,5 +1,5 @@
 # @frogebot/canvas
-Discord music bot module, designed for FrogeBot
+Canvas module, designed for FrogeBot
 
 ----
 
